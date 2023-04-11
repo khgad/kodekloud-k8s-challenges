@@ -1,3 +1,5 @@
+#!/bin/bash
+
 kubectl apply -f manifests/vote-namespace.yml
 
 sleep 2
