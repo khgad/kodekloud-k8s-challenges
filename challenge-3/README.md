@@ -80,7 +80,7 @@ To deploy the Voting App, follow these steps:
     ```
     This will create a service that exposes the `result` deployment.
 
-## Deploying the Solution
+## Automate the Deploying
 
 To deploy the Voting App, you can use the provided `deploy-vote-app.sh` script. The script automates the deployment process by applying all the YAML files in the `manifests` directory. 
 

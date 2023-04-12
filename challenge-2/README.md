@@ -55,7 +55,7 @@ The following files were used to deploy the Kubernetes objects:
 - `gop-fileserver-pod.yml`: YAML file to define the file server pod that serves the image data.
 - `gop-fs-service.yml`: YAML file to define the service that exposes the file server pod.
 
-## Usage
+## Automate the Deploying
 
 The `deploy-objects.sh` file contains the necessary commands to fix nodes and deploy the Kubernetes objects to the cluster.
 

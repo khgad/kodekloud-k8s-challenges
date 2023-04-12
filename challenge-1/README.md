@@ -1,6 +1,8 @@
-# Kodekloud K8s Challenge 1 Solution
+# Challenge 1 - Deploy Jekyll Static Site Generator (SSG)
 
 This is my solution for the first challenge of the Kodekloud Kubernetes (K8s) challenges. The goal was to deploy the given architecture diagram for implementing a Jekyll Static Site Generator (SSG).
+
+find the lab [here](https://kodekloud.com/topic/lab-kubernetes-challenge-1/)
 
 ## Architecture Diagram
 
