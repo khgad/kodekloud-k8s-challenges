@@ -1,6 +1,6 @@
-<div style="text-align: center;">
+<p align="center">
     <img src="./pics/kodekloud.svg" alt="" srcset="">
-</div>
+</p>
 
 # Kodekloud Kubernetes Challenges
 
